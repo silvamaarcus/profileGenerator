@@ -321,6 +321,8 @@ $gutter: 32px;
   width: 128px;
   height: 128px;
 
+  background-color: $white-dark;
+
   border-radius: 50%;
 }
 .profile-img {
@@ -331,6 +333,8 @@ $gutter: 32px;
   border: 1px solid $black-light;
   border-radius: 4px;
   background-color: rgba(15, 20, 31, 0);
+
+  min-width: 300px;
 
   transition: 0.2s ease;
 

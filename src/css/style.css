@@ -483,6 +483,7 @@
 .profile-big {
   width: 128px;
   height: 128px;
+  background-color: #d8dbe3;
   border-radius: 50%;
 }
 
@@ -495,6 +496,7 @@
   border: 1px solid #151b26;
   border-radius: 4px;
   background-color: rgba(15, 20, 31, 0);
+  min-width: 300px;
   transition: 0.2s ease;
 }
 .card:hover {
