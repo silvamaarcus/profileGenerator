@@ -85,7 +85,7 @@ Axios é uma biblioteca JavaScript utilizada para fazer requisições HTTP. No p
 <img src="https://github.com/silvamaarcus/profileGenerator/assets/75142775/61035ed1-572c-4d2b-a6c8-b75c422761d3" width = "200px"/>
 
 ## Fonte
-- Deploy: [Profile Generator](https://github.com/silvamaarcus/profileGenerator)
+- Deploy: [Profile Generator](https://profile-generator-snowy.vercel.app/)
 
 ## Contribuição
 
