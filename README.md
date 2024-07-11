@@ -1,6 +1,6 @@
 # Gerador de Perfis
 
-Este é um projeto de Gerador de Perfis desenvolvido em ReactJS com Vite. O usuário pode criar perfis aleatórios a partir de um simples clique no botão. Os dados são obtidos pela API Random Data e a estilização é feita com SASS.
+Participo de um processo seletivo e o teste técnico requer um projeto que consiga consumir dados da API Random Data. Este é um projeto de Gerador de Perfis desenvolvido em ReactJS com Vite. O usuário pode criar perfis aleatórios a partir de um simples clique no botão. Os dados são obtidos pela API Random Data e a estilização é feita com SASS.
 
 ## Tecnologias Utilizadas
 
